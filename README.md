@@ -1,1 +1,3 @@
-# See num of params and memory of some things in pytorch
+# Sily pytorch memory thingy
+
+Wanted to get some numbers on the memory some things consume in pytorch
